@@ -1,5 +1,0 @@
-# Enter your API keys
-
-api_key = "Zmd_hh1V7_0GJ7Kiz3m8QFSh2vNLq1YCcHu9kCaTSPaJ6-dIplcqmi8I__ECZzeP9YKTbJo0OqdOUWLG8Xi7v8zTa6EnGVe9MIr4mSp4a6sUUNemj5N2cYODiakWYXYx"
-
-gkey = "AIzaSyAN0O4RZVCM8qDG1PAokkAItxJQjBfwsek"
